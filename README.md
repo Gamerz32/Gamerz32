@@ -1,35 +1,29 @@
 ## Hi there 👋
 
-I'm Gamerz32 — gamer, developer, and all-around tech enthusiast.
+I'm Gamerz32 — gamer and all-around tech enthusiast.
 
 ### About me
 
-- 🎮 Lifelong gamer: I enjoy competitive and cooperative gaming across PC and console.
-- 💻 Software developer with an interest in game development, tools, and community projects.
-- 🌱 Always learning: currently exploring game engines, Rust, and networked multiplayer systems.
+- 💻 New Student Developer
+- 🌱 I'm always learning!
 
 ### What I'm working on
 
-- Building small indie games and prototypes.
-- Experimenting with mods and gameplay tools.
 - Sharing progress and code in this profile's repositories.
 
 ### Skills & Tech
 
-- Languages: JavaScript/TypeScript, Python, C# (Unity), Rust (learning)
-- Game engines & tools: Unity, Godot, Blender, Git
-- Areas: gameplay programming, tooling, multiplayer fundamentals
+- Languages: JavaScript (learning)
 
 ### Featured projects
 
-- Check my repositories for game prototypes, mods, and tooling (I will keep this list updated).
+- Check my repositories for random stuff (If i remind myself to update this).
 
 ### Find me
 
-- Twitch: https://twitch.tv/your_channel (replace with your channel)
-- YouTube: https://youtube.com/your_channel (replace with your channel)
-- Discord: Gamerz32#0000 (replace with your tag)
-- Twitter/X: https://twitter.com/your_handle (replace with your handle)
+- YouTube: https://youtube.com/@SamuelPVP73
+- Discord: Gamerz32#7372
+- Twitter/X: https://twitter.com/samuelferland73
 
 ---
 
