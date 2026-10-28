@@ -21,7 +21,7 @@ I'm Gamerz32 — gamer and all-around tech enthusiast.
 
 ### Find me
 
-- YouTube: https://youtube.com/@SamuelPVP73
+- LinkedIn: https://www.linkedin.com/in/samuel-ferland-954172209
 - Discord: Gamerz32#7372
 - Twitter/X: https://twitter.com/samuelferland73
 
